@@ -1,4 +1,5 @@
-_site
+keypair
+keypair.pub
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
